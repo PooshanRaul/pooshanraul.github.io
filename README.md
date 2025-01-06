@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 # pooshanraul.github.io
 # Pooshan Raul - Aspiring PhD Researcher & Mechanical Design Engineer
 
